@@ -1,0 +1,3 @@
+1 patates 20 21 50 0 10 ilyas
+2 kiyma 20 10 150 40 85 ilyas
+3 tavuk 10 10 60 0 55 ilyas
